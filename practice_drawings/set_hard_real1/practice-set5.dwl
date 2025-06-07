@@ -1,3 +1,0 @@
-cad
-DESKTOP-DT1I678 
-05 June 2025  18:03:36

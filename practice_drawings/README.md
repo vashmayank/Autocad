@@ -15,8 +15,8 @@ The drawings are divided into four main folders based on complexity:
 - `set_med1/`  
   Intermediate-level drawings that introduced me to more complex shapes and constraints.
 
-- `set_hard_real1/`  
-  Advanced real-world components and mechanical parts. These drawings were challenging and required significant attention to dimensions and accuracy.
+- `projects/`  
+  Real-world components and mechanical parts. These drawings were challenging and required significant attention to dimensions and accuracy.
 
 Each folder contains:
 
